@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-      "registry": "http://3.108.234.158:8081/repository/nodejs-mehul/"
+      "registry": "http://15.207.21.60:8081/repository/nodejs-mehul/"
   },
   
   "scripts": {
